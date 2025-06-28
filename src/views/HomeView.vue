@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '@/components/TheWelcome.vue'
+import QuizStartView from './QuizStartView.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <QuizStartView />
   </main>
 </template>
